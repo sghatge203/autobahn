@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.app-primary-color {
+  color: #5f58e8;
+}
+.primary-color {
+  color: #5f58e8 !important;
+}
+.add-button {
+  color: #5f58e8 !important;
+  border-color: #5f58e8 !important;
+}
+.custom-card {
+  border-radius: 25px !important ;
+  margin: 0.5em !important;
+  min-height: 250px !important;
+}
+.title {
+  text-transform: capitalize;
+}
+.card-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
